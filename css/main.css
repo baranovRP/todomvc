@@ -1,0 +1,16 @@
+todos {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 30%;
+}
+
+todos * {
+  display: block;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
