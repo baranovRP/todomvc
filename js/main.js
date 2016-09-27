@@ -2,7 +2,7 @@
 /* eslint no-global-assign: "warn" */
 /* eslint-env browser */
 
-import func from './file';
+import TodoList from './todolist';
 
 const document = window.document;
 
